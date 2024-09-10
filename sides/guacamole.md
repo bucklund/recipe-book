@@ -1,5 +1,5 @@
 # Guacamole recipe
-
+(serves 1 person per 2 avocados)
 
 ## Ingredients
 
